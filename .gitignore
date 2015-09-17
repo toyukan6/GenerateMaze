@@ -1,0 +1,15 @@
+*/bin
+*/obj
+*/*/bin
+*/*/obj
+*.cachefile
+.vs
+
+*.user
+
+*.suo
+
+*.manifest
+
+Thumbs.db
+MapEditor2/patterns.dat
